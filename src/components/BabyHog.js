@@ -56,7 +56,7 @@ function BabyHog({ name, hobby, eyeColor }) {
       <div className="hb-wrap">
         <img
           src={mappedImage}
-          style={{ height: "200px" }}
+          style={{ height: `${weight * 100}px` }}
           alt="MasterBlasterJrJr"
         />
       </div>
