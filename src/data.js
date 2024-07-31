@@ -1,4 +1,4 @@
-const offspring = [
+const offspringList = [
   {
     id: 1,
     name: "Ian Bacon",
@@ -16,4 +16,4 @@ const offspring = [
   },
 ];
 
-export default offspring;
+export default offspringList;
